@@ -1,0 +1,1 @@
+gcc sniffTelnet.c -lpcap -o filterTelnet.out

@@ -1,0 +1,1 @@
+gcc sniffex.c -lpcap -o sniff.out
